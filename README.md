@@ -1,2 +1,2 @@
 # PythonForMachineLearning
-A collection of information on Python, specifically related to machine learning.
+A collection of informative notebooks/tutorials on Python, specifically related to machine learning.
